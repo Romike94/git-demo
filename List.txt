@@ -3,3 +3,5 @@ paine
 apa
 cola
 branza
+banana
+mere
